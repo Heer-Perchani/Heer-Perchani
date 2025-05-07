@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi there! I'm Heer Perchani, a third-year Computing Science Major and Statistics Minor at university.
-📊 I'm passionate about Data Analytics and Machine Learning, and I enjoy uncovering insights through data and building intelligent systems.
-📈 I'm also exploring the world of Digital Marketing, where creativity meets analytics.
-🚀 Currently learning and creating projects that combine my interests in tech, data, and design.
-💡 Always curious, always learning — and excited to collaborate on meaningful work!
+👋 Hi there! I'm Heer Perchani, a third-year Computing Science Major and Statistics Minor at university. <br>
+📊 I'm passionate about Data Analytics and Machine Learning, and I enjoy uncovering insights through data and building intelligent systems. <br>
+📈 I'm also exploring the world of Digital Marketing, where creativity meets analytics. <br>
+🚀 Currently learning and creating projects that combine my interests in tech, data, and design. <br>
+💡 Always curious, always learning — and excited to collaborate on meaningful work! 
 
 
 ## 🌐 Socials:
