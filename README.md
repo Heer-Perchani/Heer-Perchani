@@ -1,9 +1,9 @@
 # Heer Perchani
 
 Computing Science student (Minor in Statistics) at the University of Alberta, based in Edmonton.
-Looking for a 4–16 month internship starting January 2027 through the Science Internship Program, in machine learning, data, software or quantitative roles.
+Looking for a 4–16 month internship starting January 2027, in machine learning, data, software or quantitative roles.
 
-**Currently:** undergraduate researcher (CRA UR2PHD program) reproducing SPIRAL, a self-play reinforcement learning method for improving LLM reasoning, on multi-GPU servers and the Narval HPC cluster.
+**Currently:** Undergraduate researcher (CRA UR2PHD program) reproducing SPIRAL, a self-play reinforcement learning method for improving LLM reasoning, on multi-GPU servers and the Narval HPC cluster.
 
 ## Projects
 
